@@ -1,6 +1,6 @@
 {
   "devDependencies": {
-    "gray-matter": "^4.0.1"
+    "gray-matter": "4.0.3"
   },
   "dependencies": {
     "fs-extra": "^7.0.0"

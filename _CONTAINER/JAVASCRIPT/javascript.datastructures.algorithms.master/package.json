@@ -3,7 +3,7 @@
   "description": "JavaScript 版数据结构与算法",
   "version": "1.0.0",
   "devDependencies": {
-    "codecov": "^1.0.1",
+    "codecov": "3.8.2",
     "jest": "^18.1.0"
   },
   "scripts": {
